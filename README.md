@@ -1,6 +1,6 @@
 ![](gif.gif)
 # About Me
-I'm Karol. I'm a third year Computer Science Student at University College Dublin and an aspiring Software Engineer! 👩‍💻
+I'm Karol. I'm a third year Computer Science Student at University College Dublin and an aspiring Software Engineer! 👨‍💻
 ## Things I'm working on
 - Learning Scala3 (COMP30070) 💻
 - Building a small indie game (WORK IN PROGRESS...) 🎮
