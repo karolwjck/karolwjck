@@ -1,4 +1,13 @@
 ![](gif.gif)
+#Anout Me
+
+##Things I'm working on
+
+##Technologies I'm interested in / want to learn more about
+
+##Things I am passionate about
+
+##Connect with me!
 
 <!--
 **karolwjck/karolwjck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
