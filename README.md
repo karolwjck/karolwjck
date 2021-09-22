@@ -20,6 +20,7 @@ I'm Karol. I'm a third year Computer Science Student at University College Dubli
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karolw%C3%B3jcik/)
 
 ## My Resume
-[a link](https://github.com/karolwjck/repo/karolwjck/main/Karol_Wojcik_CV_2021.pdf)
+[<img src="https://img.shields.io/badge/-Resume-green" />](https://github.com/karolwjck/karolwjck/blob/main/Karol_Wojcik_Resume_2021.pdf)
+
 
 
